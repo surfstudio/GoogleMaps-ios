@@ -13,12 +13,12 @@ let package = Package(
         .binaryTarget(
             name: "GoogleMaps",
             url: "https://github.com/surfstudio/GoogleMaps-ios/releases/download/prepare-release-5.0.0/GoogleMaps.xcframework.zip",
-            checksum: "117c218c2c3f96154c766bcc52909c8a631e701a63d919006c8e2f45604d8039"
+            checksum: "604a2da73e312f59705e15c593237e8ed2fcfb956b94e5a46bcf02e19a4698f3"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
             url: "https://github.com/surfstudio/GoogleMaps-ios/releases/download/prepare-release-5.0.0/GoogleMapsBase.xcframework.zip",
-            checksum: "6eaee4df67a68108d32ff2ccd360b8785d62f8f0fac4b8c58d2b29623aaf3a6f"
+            checksum: "113f95eaecf4e9e0ac04236240d84dd0f03c24423d305611ab9ee4e56d08b14f"
         )
     ]
 )
